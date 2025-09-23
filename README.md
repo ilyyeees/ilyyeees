@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=AI+Engineering+Student;ENSIA+%7C+2nd+Year;Future+AI+Engineer" alt="Typing SVG" />
 
-**🎓 ENSIA - National School of AI | Algeria**
+**🎓 ENSIA - National School of Artificial Intelligence | Algeria**
 
 ---
 
@@ -23,7 +23,7 @@
 
 🇩🇿 Arabic • 🇺🇸 English • 🇫🇷 Français
 
-**Inspired by:** OpenAI • Anthropic • Google AI
+**Inspired by:** OpenAI • Anthropic • Google
 
 </div>
 
@@ -83,20 +83,6 @@ class AIEngineerInTraining:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilyyeees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyyeees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ilyyeees&theme=tokyonight&hide_border=true&background=0D1117)
 
 </div>
 
