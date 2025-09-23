@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **ILYES ABBAS**
+# **ILYES ABBAS**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=AI+Engineering+Student;ENSIA+%7C+2nd+Year;Future+AI+Engineer" alt="Typing SVG" />
 
@@ -35,17 +35,17 @@
 class AIEngineerInTraining:
     def __init__(self):
         self.name = "ilyyeees"
-        self.location = "Algiers, Algeria 🇩🇿"
+        self.location = "Algiers, Algeria 🇩"
         self.education = "ENSIA - 2nd Year AI Engineering Student"
         self.passion = "Artificial Intelligence & Innovation"
-        self.languages = ["Arabic 🌟", "English 🌟", "French 📚"]
+        self.languages = ["Arabic", "English", "French"]
 
     def current_focus(self):
         return [
-            "🎯 Mastering AI fundamentals",
-            "💻 Developing programming skills",
-            "🌐 Exploring web development",
-            "📚 Excelling in academic projects"
+            "Mastering AI fundamentals",
+            "Developing programming skills",
+            "Exploring web development",
+            "Excelling in academic projects"
         ]
 
     def inspiration_sources(self):
@@ -62,23 +62,23 @@ class AIEngineerInTraining:
 
 <div align="center">
 
-### 🔧 Programming Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🌐 Web Development (Learning)
+### Web Development (Learning)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 AI & ML (Exploring)
+### AI & ML (Exploring)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -98,7 +98,7 @@ class AIEngineerInTraining:
 
 <div align="center">
 
-### 🤝 Let's Connect & Build the Future Together!
+### Let's Connect & Build the Future Together!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
