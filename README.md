@@ -1,118 +1,46 @@
-<div align="center">
-
-# **ILYES ABBAS**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=AI+Engineering+Student;ENSIA+%7C+2nd+Year;Future+AI+Engineer" alt="Typing SVG" />
-
-**🎓 ENSIA - National School of Artificial Intelligence | Algeria**
-
----
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Learning:** Web Dev • AI/ML • Algorithms
-
----
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ilyyeees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyyeees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
----
-
-🇩🇿 Arabic • 🇺🇸 English • 🇫🇷 Français
-
-**Inspired by:** OpenAI • Anthropic • Google
-
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class AIEngineerInTraining:
-    def __init__(self):
-        self.name = "ilyyeees"
-        self.location = "Algiers, Algeria 🇩"
-        self.education = "ENSIA - 2nd Year AI Engineering Student"
-        self.passion = "Artificial Intelligence & Innovation"
-        self.languages = ["Arabic", "English", "French"]
-
-    def current_focus(self):
-        return [
-            "Mastering AI fundamentals",
-            "Developing programming skills",
-            "Exploring web development",
-            "Excelling in academic projects"
-        ]
-
-    def inspiration_sources(self):
-        return {
-            "companies": ["OpenAI", "Anthropic", "Google"],
-            "dream": "Building revolutionary AI solutions",
-            "goal": "Contributing to the future of AI"
-        }
-```
-
----
-
-## 💻 Tech Stack & Skills
-
-<div align="center">
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Web Development (Learning)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI & ML (Exploring)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect & Build Together!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-</div><!--
+<!--
 **ilyyeees/ilyyeees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=AI+Engineering+Student;ENSIA+%7C+2nd+Year;Future+AI+Engineer" alt="Typing SVG" /></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### **Ilyes Abbas**
+
+AI Engineering student at the National School of Artificial Intelligence (ENSIA), focused on machine learning, algorithms, and software development. My objective is to contribute to innovative AI research and build impactful, scalable solutions.
+
+- 🌐 **Languages:** Arabic, English, French
+- 🇩🇿 **Location:** Algiers, Algeria
+
+</td>
+    <td valign="top" width="40%">
+
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=ilyyeees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyyeees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</td>
+  </tr>
+</table>
+
+---
+
+### **Tech Stack**
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/></a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
