@@ -1,16 +1,29 @@
 <div align="center">
 
-# 🌟 Welcome to My AI Journey! 🌟
+# 🚀 **ILYES ABBAS**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineering+Student+%F0%9F%A4%96;Second+Year+at+ENSIA+%F0%9F%8E%93;Passionate+About+Innovation+%F0%9F%9A%80;Building+the+Future+with+AI+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=AI+Engineering+Student;ENSIA+%7C+2nd+Year;Future+AI+Engineer" alt="Typing SVG" />
 
-<br/>
+**🎓 ENSIA - National School of AI | Algeria**
 
-### 🎓 Studying at **ENSIA** - The National School of Artificial Intelligence
+---
 
-_Sidi Abdellah, Algiers, Algeria_
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+**Learning:** Web Dev • AI/ML • Algorithms
+
+---
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ilyyeees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyyeees&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+---
+
+🇩🇿 Arabic • 🇺🇸 English • 🇫🇷 Français
+
+**Inspired by:** OpenAI • Anthropic • Google AI
 
 </div>
 
@@ -25,7 +38,6 @@ class AIEngineerInTraining:
         self.location = "Algiers, Algeria 🇩🇿"
         self.education = "ENSIA - 2nd Year AI Engineering Student"
         self.passion = "Artificial Intelligence & Innovation"
-        self.motto = "I wanna be the best 💪"
         self.languages = ["Arabic 🌟", "English 🌟", "French 📚"]
 
     def current_focus(self):
@@ -38,7 +50,7 @@ class AIEngineerInTraining:
 
     def inspiration_sources(self):
         return {
-            "companies": ["OpenAI", "Anthropic", "Google AI"],
+            "companies": ["OpenAI", "Anthropic", "Google"],
             "dream": "Building revolutionary AI solutions",
             "goal": "Contributing to the future of AI"
         }
@@ -76,31 +88,6 @@ class AIEngineerInTraining:
 
 ---
 
-## 🎯 Current Journey
-
-<div align="center">
-
-### 📚 **Academic Excellence at ENSIA**
-
-_Focused on building strong foundations in AI and Computer Science_
-
-### 🔬 **Learning & Growing**
-
-- 🧠 AI fundamentals and algorithms
-- 💻 Advanced programming concepts
-- 🌐 Modern web technologies
-- 📊 Data structures and algorithms
-
-### 🌟 **Inspiration Sources**
-
-- **OpenAI** - Pioneering conversational AI
-- **Anthropic** - Advancing AI safety and research
-- **Google AI Studio** - Innovative AI tools and platforms
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -115,35 +102,9 @@ _Focused on building strong foundations in AI and Computer Science_
 
 ---
 
-## 🌍 Languages I Speak
-
 <div align="center">
-
-| Language            | Proficiency         |
-| ------------------- | ------------------- |
-| 🇩🇿 العربية (Arabic) | Native ⭐⭐⭐⭐⭐   |
-| 🇺🇸 English          | Fluent ⭐⭐⭐⭐⭐   |
-| 🇫🇷 Français         | Intermediate ⭐⭐⭐ |
-
-</div>
-
----
-
-## 🎨 Fun Zone
-
-<div align="center">
-
-### � **Mission Statement**
-
-_"Striving to become the best AI engineer while contributing to revolutionary technological advancement"_
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-### 💭 Current Mood
-
-```
-[████████████████████████████████] 100% - Ready to conquer AI!
-```
 
 </div>
 
@@ -153,13 +114,7 @@ _"Striving to become the best AI engineer while contributing to revolutionary te
 
 ### 🤝 Let's Connect & Build the Future Together!
 
-_"Every expert was once a beginner. Every pro was once an amateur."_
-
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-**Thank you for visiting my profile! 🙏**
-
-![Visitor Count](https://profile-counter.glitch.me/ilyyeees/count.svg)
 
 </div><!--
 **ilyyeees/ilyyeees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
