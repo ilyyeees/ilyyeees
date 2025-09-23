@@ -2,7 +2,7 @@
 
 # ILYES ABBAS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%7C+ENSIA;Building+the+Future+of+Artificial+Intelligence;Researcher+%E2%80%A2+Developer+%E2%80%A2+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%7C+ENSIA;Learner+%E2%80%A2+Developer+%E2%80%A2+Innovator" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
@@ -16,18 +16,18 @@
 
 ## PROFILE
 
-**AI Engineering Student**
+**2nd Year AI Engineering Student**
 _National School of Artificial Intelligence (ENSIA)_
 Sidi Abdellah, Algiers, Algeria
 
-Focused on advancing machine learning research and developing scalable AI solutions. My work spans algorithmic optimization, software architecture, and emerging AI paradigms.
+Building a strong foundation in artificial intelligence and software development. Currently developing skills in machine learning fundamentals, programming, and algorithm design with the goal of contributing to innovative AI solutions.
 
-**Expertise Areas:**
+**Learning Focus:**
 
-- Machine Learning Systems
+- Core Machine Learning Concepts
 - Algorithm Design & Analysis
-- Software Engineering
-- Research Methodologies
+- Software Development Practices
+- Web Development Fundamentals
 
 **Languages:** Arabic, English, French
 
@@ -80,10 +80,6 @@ Focused on advancing machine learning research and developing scalable AI soluti
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
   </tr>
 </table>
 
@@ -93,23 +89,13 @@ Focused on advancing machine learning research and developing scalable AI soluti
 
 <div align="center">
 
-## DEVELOPMENT ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilyyeees&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## RESEARCH FOCUS
+## CURRENT STUDIES
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300"/>
 
-**Machine Learning** • **Deep Learning** • **Computer Vision** • **NLP**
+**Machine Learning Fundamentals** • **Algorithms** • **Web Development** • **Programming**
 
-_Building intelligent systems that solve real-world problems_
+_Learning today, innovating tomorrow_
 
 </div>
 
