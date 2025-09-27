@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### Tech Arsenal
+### Tech
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,react,nodejs,git,linux,docker" />
 
