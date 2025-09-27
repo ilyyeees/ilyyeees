@@ -2,7 +2,7 @@
 
 # Ilyes Abbas
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineering+Student;ENSIA Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineering+Student;ENSIA+Student" alt="Typing SVG" />
 
 </div>
 
