@@ -17,6 +17,8 @@
 - Passionate about machine learning & algorithms
 - Love building things that matter
 
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 </td>
 <td width="50%">
 
