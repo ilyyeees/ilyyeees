@@ -38,7 +38,7 @@
 
 ### Tech
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,tensorflow,pytorch,react,nodejs,git,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,git,linux" />
 
 ---
 
