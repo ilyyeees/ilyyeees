@@ -1,7 +1,7 @@
 <a href="https://github.com/ilyyeees/ilyyeees">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyyeees/ilyyeees/main/dark_mode.svg?v=2">
-    <img alt="Ilyes Abbas - AI Engineering Student | GitHub Profile" src="https://raw.githubusercontent.com/ilyyeees/ilyyeees/main/light_mode.svg?v=2">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyyeees/ilyyeees/main/dark_mode.svg?v=3">
+    <img alt="Ilyes Abbas - AI Engineering Student | GitHub Profile" src="https://raw.githubusercontent.com/ilyyeees/ilyyeees/main/light_mode.svg?v=3">
   </picture>
 </a>
 
