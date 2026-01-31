@@ -234,32 +234,32 @@ def main():
     """
     Main function to fetch all stats and update SVG files.
     """
-    print("🚀 Fetching GitHub stats for", USER_NAME)
+    print("Fetching GitHub stats for", USER_NAME)
     print("=" * 50)
     
     try:
         # Get user ID for filtering
         owner_id = get_user_id(USER_NAME)
-        print(f"✓ User ID: {owner_id['id'][:20]}...")
+        print(f"User ID: {owner_id['id'][:20]}...")
         
         # Get follower count
         followers = get_follower_count(USER_NAME)
-        print(f"✓ Followers: {followers}")
+        print(f"Followers: {followers}")
         
         # Get repo and star counts
         repos, stars = get_repos_and_stars(['OWNER'])
-        print(f"✓ Repositories: {repos}")
-        print(f"✓ Stars: {stars}")
+        print(f"Repositories: {repos}")
+        print(f"Stars: {stars}")
         
         # Get commit count (last 365 days)
         now = datetime.datetime.now(datetime.timezone.utc)
         year_ago = now - datetime.timedelta(days=365)
         commits = get_total_commits(year_ago.isoformat(), now.isoformat())
-        print(f"✓ Commits (last year): {commits}")
+        print(f"Commits (last year): {commits}")
         
         # Get LOC stats
         loc_add, loc_del, loc_total = get_loc_stats(owner_id, ['OWNER'])
-        print(f"✓ Lines of Code: +{loc_add:,} / -{loc_del:,} = {loc_total:,}")
+        print(f"Lines of Code: +{loc_add:,} / -{loc_del:,} = {loc_total:,}")
         
         # Compile stats
         stats = {
@@ -273,16 +273,16 @@ def main():
         }
         
         print("\n" + "=" * 50)
-        print("📝 Updating SVG files...")
+        print("Updating SVG files...")
         
         # Update both SVG files
         svg_overwrite('dark_mode.svg', stats)
         svg_overwrite('light_mode.svg', stats)
         
-        print("\n✅ All stats updated successfully!")
+        print("\nAll stats updated successfully!")
         
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\nError: {e}")
         # Still try to update with placeholder values on error
         stats = {
             'repos': '--',

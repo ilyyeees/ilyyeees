@@ -72,20 +72,20 @@ text, tspan {white-space: pre;}
 <tspan x="560" y="145" class="cc">  </tspan><tspan class="key">Role</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">AI Engineer Student</tspan>
 <tspan x="560" y="165" class="cc">  </tspan><tspan class="key">Location</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">Algiers, DZ</tspan>
 
-<tspan x="560" y="195" class="header">⚡ Languages</tspan>
+<tspan x="560" y="195" class="header">Languages</tspan>
 <tspan x="560" y="215">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
 <tspan x="560" y="235" class="cc">  </tspan><tspan class="accent">Python</tspan><tspan class="cc"> • </tspan><tspan class="accent">C++</tspan><tspan class="cc"> • </tspan><tspan class="accent">SQL</tspan><tspan class="cc"> • </tspan><tspan class="accent">PHP</tspan><tspan class="cc"> • </tspan><tspan class="accent">Bash</tspan>
 
-<tspan x="560" y="265" class="header">🧠 AI &amp; Data</tspan>
+<tspan x="560" y="265" class="header">AI &amp; Data</tspan>
 <tspan x="560" y="285">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
 <tspan x="560" y="305" class="cc">  </tspan><tspan class="success">PyTorch</tspan><tspan class="cc"> • </tspan><tspan class="success">Hugging Face</tspan><tspan class="cc"> • </tspan><tspan class="success">NLP</tspan>
 <tspan x="560" y="325" class="cc">  </tspan><tspan class="success">Data Eng</tspan><tspan class="cc"> • </tspan><tspan class="success">PL/SQL</tspan><tspan class="cc"> • </tspan><tspan class="success">ETL</tspan>
 
-<tspan x="560" y="355" class="header">🛠️ Tools</tspan>
+<tspan x="560" y="355" class="header">Tools</tspan>
 <tspan x="560" y="375">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
 <tspan x="560" y="395" class="cc">  </tspan><tspan class="warning">Docker</tspan><tspan class="cc"> • </tspan><tspan class="warning">Linux</tspan><tspan class="cc"> • </tspan><tspan class="warning">Git</tspan><tspan class="cc"> • </tspan><tspan class="warning">Cloud</tspan>
 
-<tspan x="560" y="425" class="header">📊 Stats</tspan>
+<tspan x="560" y="425" class="header">Stats</tspan>
 <tspan x="560" y="445">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</tspan>
 <tspan x="560" y="465" class="cc">  </tspan><tspan class="key">Repos</tspan><tspan class="cc">:</tspan><tspan class="cc" id="repo_data_dots"> ...... </tspan><tspan class="value" id="repo_data">--</tspan><tspan class="cc"> | </tspan><tspan class="key">Comms</tspan><tspan class="cc">:</tspan><tspan class="value" id="commit_data">--</tspan>
 <tspan x="560" y="485" class="cc">  </tspan><tspan class="key">Stars</tspan><tspan class="cc">:</tspan><tspan class="cc" id="star_data_dots"> ...... </tspan><tspan class="value" id="star_data">--</tspan><tspan class="cc"> | </tspan><tspan class="key">Folls</tspan><tspan class="cc">:</tspan><tspan class="value" id="follower_data">--</tspan>
@@ -96,8 +96,8 @@ text, tspan {white-space: pre;}
 <!-- Contact strip at bottom -->
 <rect x="0" y="570" width="985px" height="30" fill="#f6f8fa" rx="0"/>
 <text x="492" y="590" fill="#57606a" font-size="12px" text-anchor="middle">
-<tspan class="cc">📧 </tspan><tspan class="value">ilyes.abbas@ensia.edu.dz</tspan>
-<tspan class="cc">  •  🔗 </tspan><tspan class="value">linkedin.com/in/ilyes-abbas</tspan>
-<tspan class="cc">  •  💻 </tspan><tspan class="value">github.com/ilyyeees</tspan>
+<tspan class="cc">Email: </tspan><tspan class="value">ilyes.abbas@ensia.edu.dz</tspan>
+<tspan class="cc">  |  LinkedIn: </tspan><tspan class="value">linkedin.com/in/ilyes-abbas</tspan>
+<tspan class="cc">  |  GitHub: </tspan><tspan class="value">github.com/ilyyeees</tspan>
 </text>
 </svg>

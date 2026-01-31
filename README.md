@@ -6,13 +6,11 @@
 </a>
 
 <!--
-🤖 This README dynamically updates with live GitHub stats via GitHub Actions!
-📊 Stats are refreshed every 6 hours automatically
+This README dynamically updates with live GitHub stats via GitHub Actions!
+Stats are refreshed every 6 hours automatically
 
 Setup Instructions:
 1. Create a GitHub Personal Access Token (PAT) with 'read:user' and 'repo' scopes
 2. Add it as a repository secret named 'ACCESS_TOKEN'
 3. Push changes to trigger the workflow
-
-Made with ❤️ and lots of ☕
 -->
