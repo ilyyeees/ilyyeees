@@ -1,53 +1,28 @@
-<div align="center">
-
 # Ilyes Abbas
+**AI Engineering Student | Algiers, Algeria**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineering+Student;ENSIA+Student" alt="Typing SVG" />
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### About Me
+Passionate about machine learning, algorithms, and building robust software solutions. I focus on creating efficient, scalable systems and have a strong interest in Artificial Intelligence and Data Engineering.
 
 ---
 
-- AI Engineering Student at **ENSIA**
-- Based in Algiers, Algeria
-- Passionate about machine learning & algorithms
-- Love building things that matter
+### Technical Skills
 
-</div>
+- **Languages:** Python, C++, SQL, PL/SQL, PHP, JavaScript, Bash
+- **AI & Data:** NLP, Fine-tuning, PyTorch, Hugging Face, Data Engineering
+- **Cloud & DevOps:** Cloud Deployment, Docker, Linux, Git
 
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ilyyeees&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=a9b1d6&icon_color=bb9af7" width="100%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ilyyeees&theme=tokyonight&hide_border=true&background=1a1b27&stroke=565f89&ring=70a5fd&fire=ff9e64&currStreakLabel=70a5fd" width="100%"/>
-
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-<div align="center">
+### Contact
 
-### Tech
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,git,linux" />
-
----
-
-### Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ilyes.abbas@ensia.edu.dz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyes-abbas)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilyyeees)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer"/>
-
-</div>
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:ilyes.abbas@ensia.edu.dz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyes-abbas)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ilyyeees)
