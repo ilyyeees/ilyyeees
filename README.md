@@ -8,6 +8,8 @@
 
 Machine learning and data science. mostly Python.
 
-<sub>ilyes.abbas@ensia.edu.dz</sub>
+---
+
+ilyes.abbas@ensia.edu.dz
 
 </div>
