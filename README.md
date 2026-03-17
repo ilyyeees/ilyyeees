@@ -8,6 +8,6 @@
 
 Machine learning and data science. mostly Python.
 
-[linkedin](https://www.linkedin.com/in/ilyes-abbas-077660320/) · discord: il.y.s · ilyes.abbas@ensia.edu.dz
+[linkedin](https://www.linkedin.com/in/ilyes-abbas-077660320/) · [hugging face](https://huggingface.co/ilyyeees) · discord: il.y.s · ilyes.abbas@ensia.edu.dz
 
 </div>
